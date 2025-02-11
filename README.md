@@ -2,7 +2,7 @@
 
 A user-centered redesign of [Ithaca's Annual Apple Harvest Festival website](https://www.downtownithaca.com/apple-harvest-festival/) to improve **navigation, accessibility, and event planning** for local families.
 
-The final product is currently hosted on [Github Pages](https://cheryl-qian.github.io/apple-fest).
+The [final product](https://cheryl-qian.github.io/apple-fest) is currently hosted on Github Pages.
 
 ## Table of Contents
 - [User Research & Goals](#user-research--goals)
